@@ -1,2 +1,2 @@
 # angularjs
-hello all distinguished peeps ,I would like share my angular js code here
+hello all distinguished peeps ,I would like to share my angular js code here
